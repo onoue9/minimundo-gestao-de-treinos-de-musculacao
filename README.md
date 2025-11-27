@@ -74,4 +74,3 @@ Veja o DER no [dbdiagram.io](https://dbdiagram.io/d/6928da1da0c4ebcc2b101940)
 
 - **Filipe Lira Onoue Melo**
 - Repositório criado para fins acadêmicos e demonstração de modelagem relacional.
-```
